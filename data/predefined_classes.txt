@@ -1,0 +1,8 @@
+person_on_bike
+bus
+car
+person_on_moto
+person
+van
+minibus
+person_on_tricycle
